@@ -56,7 +56,7 @@ void loop() {
 The built-in LED blinks continuously, remaining ON for one second and OFF for one sec.
 ## 📸 Hardware Setup
 
-![Arduino UNO Hardware Setup](./images/1000045090.jpg)
+![LED Built-in Output](./LED_BUILTIN%20OUTPUT.jpeg)
 
 📚 Concepts Learned
 
